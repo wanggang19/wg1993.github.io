@@ -13,7 +13,7 @@ notifications:
   # 邮件发送部署结果通知
   email:
     recipients:
-      - 601661706@qq.com
+      - 2533202589@qq.com
     on_success: change
     on_failure: always
 
@@ -49,4 +49,4 @@ branches:
     - blog_code
 env:
  global:
-   - GH_REF: github.com/YeWills/YeWills.github.io.git
+   - GH_REF: github.com/wg1993/wg1993.github.io.git
