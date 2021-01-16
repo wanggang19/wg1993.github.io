@@ -1,2 +1,0 @@
-# wg.github.io
-
