@@ -46,7 +46,7 @@ after_script:
 
 branches:
   only:
-    - blog_code
+    - dev
 env:
   global:
     - GH_REF: github.com/wg1993/wg1993.github.io.git
