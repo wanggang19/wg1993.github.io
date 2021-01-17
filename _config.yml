@@ -62,4 +62,6 @@ exclude: null
 ignore: null
 theme: shoka
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/wg1993/wg1993.github.io.git'
+  branch: main
