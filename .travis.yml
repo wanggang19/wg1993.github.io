@@ -33,7 +33,7 @@ before_script:
 
 script:
   # - hexo clean && hexo g
-  - hexo g
+  - hexo d
 
 after_success:
 # - LAST_BUILD_NUMBER=68
