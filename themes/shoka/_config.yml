@@ -2,10 +2,10 @@
 alternate: Yume Shoka
 
 open_graph:
-  #twitter_id:
-  #google_plus:
-  #fb_admins:
-  #fb_app_id:
+#twitter_id:
+#google_plus:
+#fb_admins:
+#fb_app_id:
 
 # Assets
 statics: / #//cdn.jsdelivr.net/gh/username/RepositoryName@latest/
@@ -38,10 +38,10 @@ loader:
 fireworks:
   enable: true
   color:
-    # - "rgba(255,182,185,.9)"
-    # - "rgba(250,227,217,.9)"
-    # - "rgba(187,222,214,.9)"
-    # - "rgba(138,198,209,.9)"
+  # - "rgba(255,182,185,.9)"
+  # - "rgba(250,227,217,.9)"
+  # - "rgba(187,222,214,.9)"
+  # - "rgba(138,198,209,.9)"
 
 font:
   enable: true
@@ -205,23 +205,23 @@ valine:
     investor: "var(--color-pink)"
   tagMember:
     master:
-      # - hash of master@email.com
-      # - hash of master2@email.com
+    # - hash of master@email.com
+    # - hash of master2@email.com
     friend:
-      # - hash of friend@email.com
-      # - hash of friend2@email.com
+    # - hash of friend@email.com
+    # - hash of friend2@email.com
     investor:
-      # - hash of investor1@email.com
+    # - hash of investor1@email.com
 
 # bgm
 audio:
-  # - title: 列表1
-  #   list:
-  #    - https://music.163.com/#/playlist?id=2943811283
-  #    - https://music.163.com/#/playlist?id=2297706586
-  # - title: 列表2
-  #   list:
-  #    - https://music.163.com/#/playlist?id=2031842656
+# - title: 列表1
+#   list:
+#    - https://music.163.com/#/playlist?id=2943811283
+#    - https://music.163.com/#/playlist?id=2297706586
+# - title: 列表2
+#   list:
+#    - https://music.163.com/#/playlist?id=2031842656
 
 # random image api
 image_server: # "https://acg.xydwz.cn/api/api.php"
